@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/ocean-img.jpg);
+}
+
+.jumbotron {
+    width: 26%;
+    margin: 140px auto 32px;
+    text-align: center;
+}
+
+.image{
+    text-align: center;
+}
